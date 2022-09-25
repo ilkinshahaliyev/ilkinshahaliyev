@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **ASP.NET Framework (MVC and APIs), EFCore (Entity Framework Core) and Middle and Advanced level Programming.**
 
+- 💬 Ask me about **anything related to programming. Mainly about C# and ASP.Net.**
+
 - 📫 How to reach me **shahaliyev2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
