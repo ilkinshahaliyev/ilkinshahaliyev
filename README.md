@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width=400 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkinshahaliyev&label=Profile%20views&color=0e75b6&style=flat" alt="ilkinshahaliyev" /> </p>
-
 - 🌱 I’m currently learning **ASP.NET Framework (MVC and APIs), EFCore (Entity Framework Core) and Middle and Advanced level Programming.**
 
 - 💬 Ask me about **anything related to programming. Mainly about C# and ASP.Net.**
